@@ -95,7 +95,8 @@ export default function Home() {
   );
 }
 
-function ContactForm({ dark }) {
+function ContactForm({ dark }: { dark: boolean }) {
+
   return (
     <form
       action="https://formspree.io/f/mgooeqnl"
