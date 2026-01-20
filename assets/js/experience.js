@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/r1.jpg",
     place: "Self Learning",
     time: "(2020 - present)",
-    desp: "<li>HTML</li> <li>CSS</li> <li>JavaScript</li> <li>React</li> <li>PHP</li>",
+    desp: "<li>HTML</li> <li>CSS</li> <li>JavaScript</li> <li>Java</li> <li>PHP</li>",
   },
   {
     title: "Tools & Workflow",
